@@ -1,0 +1,97 @@
+{
+    "user_info": {
+      "birth_date": "1993-09-20",
+      "chinese_zodiac": "鸡",
+      "earthly_branch": "酉",
+      "heavenly_stem": "癸",
+      "gender": "female"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "巳酉半合金局，乙木生火，名利双收但防小人"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["专业主义", "洞察力强", "守信重诺"],
+          "weaknesses": ["批判过度", "焦虑体质", "非黑即白"],
+          "case_study": "王菲（1969己酉年）：严格限制演唱会时长体现'酉鸡司晨'特性"
+        },
+        "tai_sui_status": {
+          "type": "无犯太岁",
+          "conflict_animals": ["兔"],
+          "warning": "易惹官非之年，签约需谨慎",
+          "resolve_methods": [
+            "正西方放置金属钟表",
+            "佩戴黑曜石不动尊菩萨",
+            "立秋后多穿白色衣物"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "正西（兑卦）",
+          "element": "金",
+          "layout_tips": ["放置金属风铃", "使用白色床品"]
+        },
+        "academic_position": {
+          "direction": "北方",
+          "enhancement": ["摆放文昌塔", "书桌放水晶球"]
+        },
+        "wealth_position": {
+          "direction": "东北方",
+          "enhancement": ["聚宝盆内置金条", "悬挂金属葫芦"],
+          "taboos": ["避免红色装饰过多"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["呼吸系统"],
+          "common_issues": ["咽喉肿痛", "皮肤干燥"]
+        },
+        "health_calendar": {
+          "february": "注意饮食卫生",
+          "october": "慎防旧疾复发",
+          "december": "预防呼吸道感染"
+        },
+        "health_tips": [
+          "晨起盐水漱口",
+          "多吃雪梨银耳",
+          "出外旅行注意安全"
+        ]
+      },
+      "career": {
+        "overview": "财星高照，大吉大利",
+        "noble_animals": ["蛇", "牛"],
+        "favorable_direction": "南方",
+        "industries": ["法律行业", "珠宝贸易"],
+        "warnings": ["防小人中伤", "建立好人际关系"],
+        "historical_case": "乾隆御制诗：'西鸡司晨护紫微'记载生肖鸡入宫特权"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "kitchen": "使用不锈钢厨具",
+          "study": "放置金属书立"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "黄铜文昌塔",
+            "placement": "北方书桌",
+            "purpose": "催旺事业运"
+          },
+          {
+            "name": "朱砂貔貅手链",
+            "purpose": "招财防小人"
+          }
+        ],
+        "seasonal_advice": {
+          "autumn": "多吃白色食物润肺"
+        }
+      }
+    }
+  }

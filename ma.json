@@ -1,0 +1,99 @@
+{
+    "user_info": {
+      "birth_date": "1990-06-20",
+      "chinese_zodiac": "马",
+      "earthly_branch": "午",
+      "heavenly_stem": "庚",
+      "gender": "male"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "午火遇巳火，火势过旺需补水调和"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["行动力超群", "天生亲和力", "遇挫恢复快"],
+          "weaknesses": ["急躁冲动", "持久力不足", "追求自由"],
+          "case_study": "马化腾（1971辛亥年）：微信迭代展现'不停奔跑'的创新力"
+        },
+        "tai_sui_status": {
+          "type": "无犯太岁",
+          "conflict_animals": ["鼠"],
+          "warning": "小病频仍之年，注意心肺保养",
+          "resolve_methods": [
+            "正北方放置鱼缸",
+            "佩戴黑曜石大势至菩萨",
+            "每月初一吃素"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "正南（离卦）",
+          "element": "火",
+          "layout_tips": ["使用红色装饰", "放置骏马图"]
+        },
+        "academic_position": {
+          "direction": "西方",
+          "enhancement": ["摆放金属文具", "书桌放白水晶"]
+        },
+        "wealth_position": {
+          "direction": "西方",
+          "enhancement": ["聚宝盆内置金银币", "悬挂铜铃"],
+          "taboos": ["避免放置仙人掌"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["心肺系统"],
+          "common_issues": ["呼吸道感染", "失眠多梦"]
+        },
+        "health_calendar": {
+          "march": "戒酒色过度",
+          "december": "注意家居安全",
+          "october": "心血管疾病高发期"
+        },
+        "health_tips": [
+          "练习游泳增强肺活量",
+          "睡前喝蜂蜜百合粥",
+          "注意小孩健康"
+        ]
+      },
+      "career": {
+        "overview": "先衰后盛需不懈努力",
+        "noble_animals": ["虎", "狗"],
+        "favorable_direction": "南方",
+        "industries": ["旅游行业", "体育产业"],
+        "warnings": ["避免官非", "合伙经营需谨慎"],
+        "historical_case": "李世民（属马）与李建成（属鸡）午酉相破，玄武门之变"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "gate_taboo": "忌朝正南（坐子向午）",
+          "garden": "种植矮牵牛花",
+          "balcony": "避免堆放杂物"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "黑曜石本命佛项链",
+            "purpose": "稳定情绪，提升决策力"
+          },
+          {
+            "name": "五路财神朱砂手串",
+            "purpose": "增强正偏财运"
+          }
+        ],
+        "special_reminders": [
+          "十月注意心血管疾病",
+          "年末投资可获利",
+          "避免高风险投机"
+        ]
+      }
+    }
+  }

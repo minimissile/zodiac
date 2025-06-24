@@ -1,0 +1,97 @@
+{
+    "user_info": {
+      "birth_date": "1998-02-14",
+      "chinese_zodiac": "虎",
+      "earthly_branch": "寅",
+      "heavenly_stem": "戊",
+      "gender": "male"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "寅木生巳火，形成'虎蛇相刑'格局"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["领导力强", "保护欲旺盛"],
+          "weaknesses": ["冲动易怒", "控制欲强"],
+          "case_study": "秦始皇（前259壬寅年）：修长城显虎的领地意识"
+        },
+        "tai_sui_status": {
+          "type": "害太岁",
+          "conflict_animals": ["猴"],
+          "warning": "健康高危之年，特别注意肝胆",
+          "resolve_methods": [
+            "佩戴朱砂三合手串（马/狗）",
+            "立春献血化解血光",
+            "卧室挂红色中国结"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "东北（艮卦）",
+          "element": "木",
+          "layout_tips": ["放置绿植盆景", "避免金属利器"]
+        },
+        "academic_position": {
+          "direction": "西南方",
+          "enhancement": ["使用虎纹书桌垫", "放置水晶洞"]
+        },
+        "wealth_position": {
+          "direction": "东北/西南",
+          "enhancement": ["摆放黄玉貔貅", "钱包放五帝钱"],
+          "taboos": ["忌杂乱堆积文件"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["肝胆", "神经系统"],
+          "common_issues": ["偏头痛", "焦虑症"]
+        },
+        "health_calendar": {
+          "may": "体检重点查肝功能",
+          "september": "慎防意外伤害"
+        },
+        "health_tips": [
+          "饮用菊花枸杞茶",
+          "23点前务必入睡",
+          "练习书法静心"
+        ]
+      },
+      "career": {
+        "overview": "福星高照但口舌是非多",
+        "noble_animals": ["马", "狗"],
+        "favorable_direction": "南方",
+        "industries": ["体育竞技", "风险投资"],
+        "warnings": ["谨言慎行", "防火防盗"]
+      },
+      "feng_shui": {
+        "home_layout": {
+          "study": "挂'虎啸山林'画作",
+          "balcony": "种植铁树化煞"
+        },
+        "office_layout": {
+          "desk_position": "坐东朝西"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "艾草养生锤",
+            "usage": "每日敲打肝胆经"
+          },
+          {
+            "name": "黑曜石虚空藏菩萨",
+            "purpose": "化解害太岁"
+          }
+        ],
+        "seasonal_advice": {
+          "spring": "多吃绿色蔬菜舒肝"
+        }
+      }
+    }
+  }

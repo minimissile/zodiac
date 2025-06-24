@@ -1,0 +1,98 @@
+{
+    "user_info": {
+      "birth_date": "1994-10-25",
+      "chinese_zodiac": "狗",
+      "earthly_branch": "戌",
+      "heavenly_stem": "甲",
+      "gender": "male"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "戌土得巳火相生，乙木克土，运势先难后易"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["绝对可靠", "危机嗅觉", "持久战力"],
+          "weaknesses": ["非黑即白", "过度牺牲", "言语直伤"],
+          "case_study": "张家辉（1967丁未年）：从龙套到影帝展现狗的坚守精神"
+        },
+        "tai_sui_status": {
+          "type": "无犯太岁",
+          "conflict_animals": ["龙"],
+          "warning": "财务管理关键年，慎防破财",
+          "resolve_methods": [
+            "西北方放置金属摆件",
+            "佩戴五路财神朱砂手串",
+            "每月初八布施"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "西北（乾卦）",
+          "element": "金",
+          "layout_tips": ["放置圆形金属钟", "使用灰色系装饰"]
+        },
+        "academic_position": {
+          "direction": "正东方",
+          "enhancement": ["摆放绿植", "使用木质笔筒"]
+        },
+        "wealth_position": {
+          "direction": "西北方",
+          "enhancement": ["放置保险箱", "悬挂金属风铃"],
+          "taboos": ["避免堆放旧报纸"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["脾胃系统"],
+          "common_issues": ["消化不良", "慢性疲劳"]
+        },
+        "health_calendar": {
+          "march": "注意饮食卫生",
+          "august": "预防中暑",
+          "november": "注意保暖"
+        },
+        "health_tips": [
+          "饭后散步助消化",
+          "饮用陈皮普洱茶",
+          "九月注意饮食卫生"
+        ]
+      },
+      "career": {
+        "overview": "贵人相助，运势畅旺",
+        "noble_animals": ["虎", "马"],
+        "favorable_direction": "北方",
+        "industries": ["安保行业", "教育培训"],
+        "warnings": ["切勿贪小便宜", "慎防商业圈套"],
+        "case_study": "PG One（1994甲戌年）：值太岁年出轨事件埋葬前程"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "bedroom": "西北角放铜器",
+          "garden": "种植向日葵"
+        },
+        "office_layout": {
+          "important": "座位靠实墙"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "七星九运五帝钱门垫",
+            "placement": "大门入口",
+            "purpose": "化解病符星"
+          }
+        ],
+        "special_reminders": [
+          "五月有意外收入",
+          "八月慎防盗劫",
+          "年末注意长辈健康"
+        ]
+      }
+    }
+  }

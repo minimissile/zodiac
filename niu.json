@@ -1,0 +1,91 @@
+{
+  "user_info": {
+    "birth_date": "1997-01-25",
+    "chinese_zodiac": "牛",
+    "earthly_branch": "丑",
+    "heavenly_stem": "丁",
+    "gender": "male"
+  },
+  "report": {
+    "year": 2025,
+    "stem_branch": {
+      "heavenly_stem": "乙",
+      "earthly_branch": "巳",
+      "five_elements": "木火",
+      "year_analysis": "巳火生丑土，事业需防权贵打压"
+    },
+    "zodiac_tai_sui": {
+      "zodiac_personality": {
+        "strengths": ["勤奋踏实", "责任感强"],
+        "weaknesses": ["固执己见", "缺乏变通"],
+        "case_study": "刘德华（1961辛丑年）：年过六十仍保持高强度工作"
+      },
+      "tai_sui_status": {
+        "type": "无犯太岁",
+        "conflict_animals": ["羊"],
+        "warning": "财星破损之年，慎防投资陷阱",
+        "resolve_methods": [
+          "东北方放置黄水晶",
+          "佩戴五路财神朱砂手串"
+        ]
+      }
+    },
+    "positions": {
+      "life_position": {
+        "direction": "东北（艮卦）",
+        "element": "土",
+        "layout_tips": ["放置陶瓷工艺品", "使用黄色系装饰"]
+      },
+      "academic_position": {
+        "direction": "正南方",
+        "enhancement": ["摆放文竹盆栽", "使用木质书桌"]
+      },
+      "wealth_position": {
+        "direction": "北方",
+        "enhancement": ["鱼缸养6条黑色鱼", "放置深蓝色地毯"],
+        "taboos": ["避免红色装饰"]
+      }
+    },
+    "health": {
+      "risk_forecast": {
+        "high_risk": ["心脑血管"],
+        "common_issues": ["偏头痛", "失眠多梦"]
+      },
+      "health_calendar": {
+        "march": "注意交通安全",
+        "november": "预防关节疼痛"
+      },
+      "health_tips": [
+        "睡前热水泡脚",
+        "练习八段锦'摇头摆尾'式",
+        "午时小憩养心"
+      ]
+    },
+    "career": {
+      "overview": "运势崎岖不平，稳扎稳打为上",
+      "noble_animals": ["蛇", "鸡"],
+      "favorable_direction": "北方",
+      "industries": ["房地产", "农业"],
+      "warnings": ["远离口舌是非", "慎防独断专行"]
+    },
+    "feng_shui": {
+      "home_layout": {
+        "kitchen": "西南角放陶瓷米缸",
+        "living_room": "避免尖角家具"
+      }
+    },
+    "personalized_recommendations": {
+      "enhancement_items": [
+        {
+          "name": "黄铜聚宝盆",
+          "placement": "北方财位",
+          "content": ["放入五谷+旧钱币"]
+        }
+      ],
+      "special_reminders": [
+        "9月谨防亲友借贷",
+        "年末投资宜保守"
+      ]
+    }
+  }
+}

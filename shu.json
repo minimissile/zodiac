@@ -1,0 +1,97 @@
+{
+  "user_info": {
+    "birth_date": "1996-02-19",
+    "chinese_zodiac": "鼠",
+    "earthly_branch": "子",
+    "heavenly_stem": "丙",
+    "gender": "female"
+  },
+  "report": {
+    "year": 2025,
+    "stem_branch": {
+      "heavenly_stem": "乙",
+      "earthly_branch": "巳",
+      "five_elements": "木火",
+      "year_analysis": "乙木生巳火，子水受克，需防情绪波动"
+    },
+    "zodiac_tai_sui": {
+      "zodiac_personality": {
+        "strengths": ["聪明灵活", "社交高手", "危机意识强"],
+        "weaknesses": ["多疑谨慎", "计较得失"],
+        "case_study": "杜甫（712壬子年）：乱世漂泊创作'诗史'，展现鼠的逆境求生力"
+      },
+      "tai_sui_status": {
+        "type": "无犯太岁",
+        "conflict_animals": ["马"],
+        "warning": "肠胃敏感之年，忌食生冷海鲜",
+        "resolve_methods": [
+          "正北方放置鱼缸增强水运",
+          "佩戴黑曜石千手观音本命佛"
+        ]
+      }
+    },
+    "positions": {
+      "life_position": {
+        "direction": "正北（坎卦）",
+        "element": "水",
+        "layout_tips": ["放置鱼缸或流水摆件", "使用黑/蓝色装饰"]
+      },
+      "academic_position": {
+        "direction": "东南方",
+        "enhancement": [
+          "文昌塔搭配金属风铃",
+          "书桌铺绿色桌布"
+        ]
+      },
+      "wealth_position": {
+        "direction": "东南方",
+        "enhancement": ["聚宝盆内置金元宝", "悬挂五帝钱"],
+        "taboos": ["避免堆放垃圾"]
+      }
+    },
+    "health": {
+      "risk_forecast": {
+        "high_risk": ["消化系统"],
+        "common_issues": ["食物中毒风险", "水土不服"]
+      },
+      "health_calendar": {
+        "july": "户外活动注意安全",
+        "october": "慎防急性肠胃炎"
+      },
+      "health_tips": [
+        "戒吃生冷海鲜",
+        "每日按摩足三里穴",
+        "晨起喝姜茶暖胃"
+      ]
+    },
+    "career": {
+      "overview": "文昌星照命，升职加薪良机",
+      "noble_animals": ["龙", "猴"],
+      "favorable_direction": "北方",
+      "industries": ["物流运输", "教育咨询"],
+      "warnings": ["勿得意忘形", "注意文件细节"]
+    },
+    "feng_shui": {
+      "home_layout": {
+        "gate_taboo": "忌朝正北（坐午向子）",
+        "bedroom": "东北角放白水晶"
+      },
+      "office_taboos": ["座位忌背门"]
+    },
+    "personalized_recommendations": {
+      "enhancement_items": [
+        {
+          "name": "黑曜石千手观音项链",
+          "purpose": "化解小人，提升决策力"
+        },
+        {
+          "name": "黄铜文昌塔",
+          "placement": "东南方书桌"
+        }
+      ],
+      "seasonal_advice": {
+        "winter_solstice": "进补山药小米粥养胃"
+      }
+    }
+  }
+}

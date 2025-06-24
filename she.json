@@ -1,0 +1,97 @@
+{
+    "user_info": {
+      "birth_date": "1989-05-15",
+      "chinese_zodiac": "蛇",
+      "earthly_branch": "巳",
+      "heavenly_stem": "己",
+      "gender": "female"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "值太岁之年，乙木生巳火，火势过旺需平衡"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["直觉敏锐", "应变力强", "思想深刻"],
+          "weaknesses": ["过度谨慎", "情感压抑", "防备心重"],
+          "case_study": "屈原（前342辛巳年）：洞察政治危机展现蛇的智慧"
+        },
+        "tai_sui_status": {
+          "type": "值太岁",
+          "conflict_animals": ["猪"],
+          "warning": "易招惹小人是非，健康注意心脑血管",
+          "resolve_methods": [
+            "佩戴黑曜石普贤菩萨本命佛",
+            "立春献血化解血光",
+            "参加三场喜事冲喜"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "东南（巽卦）",
+          "element": "木",
+          "layout_tips": ["放置绿植", "避免金属尖锐物"]
+        },
+        "academic_position": {
+          "direction": "正南方",
+          "enhancement": ["使用红色笔筒", "摆放紫水晶"]
+        },
+        "wealth_position": {
+          "direction": "西南方",
+          "enhancement": ["摆放黄玉貔貅", "悬挂五帝钱"],
+          "taboos": ["忌杂乱电线"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["心脑血管", "免疫系统"],
+          "common_issues": ["高血压", "皮肤过敏"]
+        },
+        "health_calendar": {
+          "april": "注意情绪波动",
+          "october": "慎防意外伤害",
+          "year_round": "少用锋利刀具"
+        },
+        "health_tips": [
+          "每日冥想15分钟",
+          "饮用丹参茶护心",
+          "注重水上安全"
+        ]
+      },
+      "career": {
+        "overview": "本命年运势起伏大，需谨言慎行",
+        "noble_animals": ["牛", "鸡"],
+        "favorable_direction": "南方",
+        "industries": ["互联网", "能源行业"],
+        "warnings": ["少说话多做事", "慎防商业圈套"],
+        "historical_case": "乾隆年间设'西时值更台'镇压风水"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "kitchen": "保持整洁避免杂乱",
+          "bathroom": "门常关闭",
+          "living_room": "避免蛇形装饰"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "朱砂六合生肖手串",
+            "purpose": "辟邪挡煞，招财旺运"
+          },
+          {
+            "name": "艾草养生锤",
+            "usage": "拍打肘窝疏解压力"
+          }
+        ],
+        "seasonal_advice": {
+          "dragon_boat_festival": "悬挂艾草祛湿排毒"
+        }
+      }
+    }
+  }

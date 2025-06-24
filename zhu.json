@@ -1,0 +1,99 @@
+{
+    "user_info": {
+      "birth_date": "1995-11-30",
+      "chinese_zodiac": "猪",
+      "earthly_branch": "亥",
+      "heavenly_stem": "乙",
+      "gender": "female"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "巳亥相冲，乙木耗水，冲太岁之年动荡多"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["情绪稳定", "财运亨通", "危机免疫"],
+          "weaknesses": ["拖延成性", "过度忍让", "饮食失控"],
+          "case_study": "黄渤（1974甲寅年）：娱乐圈零差评展现猪的'和气生财'"
+        },
+        "tai_sui_status": {
+          "type": "冲太岁",
+          "conflict_animals": ["蛇"],
+          "warning": "破财风险极高，注意肾脏保养",
+          "resolve_methods": [
+            "佩戴黑曜石阿弥陀佛本命佛",
+            "立春参加祈福法会",
+            "卧室挂山水画补水"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "西北（乾卦）",
+          "element": "金",
+          "layout_tips": ["放置金属圆形摆件", "使用黑白色调"]
+        },
+        "academic_position": {
+          "direction": "东南方",
+          "enhancement": ["摆放船型摆件", "书桌放蓝水晶"]
+        },
+        "wealth_position": {
+          "direction": "南方",
+          "enhancement": ["放置流动水景", "悬挂红色中国结"],
+          "taboos": ["避免堆放杂物"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["肾脏", "泌尿系统"],
+          "common_issues": ["腰酸水肿", "失眠多梦"]
+        },
+        "health_calendar": {
+          "january": "注意保暖",
+          "july": "慎防中暑",
+          "october": "预防尿路感染"
+        },
+        "health_tips": [
+          "每日按摩涌泉穴",
+          "饮用冬瓜薏米汤",
+          "减少盐分摄入"
+        ]
+      },
+      "career": {
+        "overview": "冲太岁之年阻滞多",
+        "noble_animals": ["兔", "羊"],
+        "favorable_direction": "北方",
+        "industries": ["餐饮行业", "慈善事业"],
+        "warnings": ["稳打稳扎", "外地发展有收获"],
+        "case_study": "方刚（1947丁亥年）：2025年5月去世印证猪年健康风险"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "bathroom": "保持干燥",
+          "bedroom": "避免红色过多",
+          "living_room": "放置圆形鱼缸"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "黑曜石阿弥陀佛项链",
+            "purpose": "化解冲太岁"
+          },
+          {
+            "name": "黄铜聚宝盆",
+            "placement": "南方财位"
+          }
+        ],
+        "special_reminders": [
+          "三月有贵人提携",
+          "九月避免高息借贷",
+          "年末两个月财务低沉"
+        ]
+      }
+    }
+  }

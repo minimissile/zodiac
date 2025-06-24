@@ -1,0 +1,101 @@
+{
+    "user_info": {
+      "birth_date": "1992-08-15",
+      "chinese_zodiac": "猴",
+      "earthly_branch": "申",
+      "heavenly_stem": "壬",
+      "gender": "male"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "巳申相刑，乙木耗金，需防意外破财"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["聪明机灵", "创新力强", "人脉高手"],
+          "weaknesses": ["缺乏耐心", "玩世不恭", "言语伤人"],
+          "case_study": "武则天（624甲申年）：首创殿试武举展现猴的创新力"
+        },
+        "tai_sui_status": {
+          "type": "刑太岁",
+          "conflict_animals": ["虎"],
+          "warning": "意外频发之年，特别注意交通安全",
+          "resolve_methods": [
+            "佩戴朱砂三合手串（鼠/龙）",
+            "立春捐血化解血光",
+            "车内挂平安葫芦"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "西南（坤卦）",
+          "element": "土",
+          "layout_tips": ["放置方形黄玉摆件", "使用黄色系装饰"]
+        },
+        "academic_position": {
+          "direction": "东北方",
+          "enhancement": ["摆放金属地球仪", "使用蓝色文具"]
+        },
+        "wealth_position": {
+          "direction": "东方",
+          "enhancement": ["种植发财树", "放置水晶洞"],
+          "taboos": ["避免尖锐物品"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["呼吸系统", "骨骼关节"],
+          "common_issues": ["咳嗽哮喘", "关节疼痛"]
+        },
+        "health_calendar": {
+          "april": "慎防过敏发作",
+          "september": "注意登高安全",
+          "november": "预防流感"
+        },
+        "health_tips": [
+          "练习太极拳强筋骨",
+          "饮用罗汉果茶润肺",
+          "夏末秋初防水险"
+        ]
+      },
+      "career": {
+        "overview": "吉凶参半需保持警惕",
+        "noble_animals": ["鼠", "龙"],
+        "favorable_direction": "北方",
+        "industries": ["新媒体", "国际贸易"],
+        "warnings": ["放下心事", "主动联络客户"],
+        "case_study": "虹云（1944甲申年）：播音泰斗展现猴的机敏应变"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "living_room": "西南角放石雕",
+          "balcony": "悬挂风铃化煞"
+        },
+        "office_layout": {
+          "desk": "避免背对门窗"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "黑曜石大日如来项链",
+            "purpose": "化解刑太岁"
+          },
+          {
+            "name": "五帝钱钥匙扣",
+            "placement": "随身携带"
+          }
+        ],
+        "special_reminders": [
+          "农历七月有贵人相助",
+          "十月慎防金钱圈套",
+          "避免高风险投资"
+        ]
+      }
+    }
+  }

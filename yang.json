@@ -1,0 +1,98 @@
+{
+    "user_info": {
+      "birth_date": "1991-07-25",
+      "chinese_zodiac": "羊",
+      "earthly_branch": "未",
+      "heavenly_stem": "辛",
+      "gender": "female"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "未土得巳火相生，但乙木克土压力大"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["共情力强", "艺术天赋", "危机嗅觉"],
+          "weaknesses": ["过度妥协", "情绪内耗", "决策犹豫"],
+          "case_study": "陈道明（1955乙未年）：拒拍抗日神剧展现清高守节"
+        },
+        "tai_sui_status": {
+          "type": "无犯太岁",
+          "conflict_animals": ["牛"],
+          "warning": "财星破损之年，慎防破财",
+          "resolve_methods": [
+            "西南方放置陶瓷黄牛摆件",
+            "佩戴五路财神朱砂手串",
+            "捐款积功德"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "西南（坤卦）",
+          "element": "土",
+          "layout_tips": ["放置方形抱枕", "使用大地色系"]
+        },
+        "academic_position": {
+          "direction": "东北方",
+          "enhancement": ["使用木质书架", "放置文昌塔"]
+        },
+        "wealth_position": {
+          "direction": "北方",
+          "enhancement": ["鱼缸养8条金鱼", "放置蓝色地毯"],
+          "taboos": ["避免红色过多"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["肾脏", "泌尿系统"],
+          "common_issues": ["腰酸水肿", "失眠"]
+        },
+        "health_calendar": {
+          "january": "注意保暖防寒",
+          "august": "慎防尿路感染",
+          "year_round": "避免过劳"
+        },
+        "health_tips": [
+          "每日按揉肾俞穴",
+          "饮用玉米须茶",
+          "关注长辈健康"
+        ]
+      },
+      "career": {
+        "overview": "凶多吉少需稳扎稳打",
+        "noble_animals": ["兔", "猪"],
+        "favorable_direction": "南方",
+        "industries": ["美容行业", "医疗护理"],
+        "warnings": ["避免与上级冲突", "切勿轻信他人"],
+        "case_study": "颐和园昆明湖设计符合慈禧（属羊）生肖喜水特性"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "bedroom": "西南角放盐灯",
+          "kitchen": "使用圆形餐具",
+          "garden": "种植三叶草"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "黄铜聚宝盆",
+            "placement": "北方财位",
+            "content": ["放入大米+五帝钱"]
+          },
+          {
+            "name": "黑曜石本命佛",
+            "purpose": "增强事业贵人运"
+          }
+        ],
+        "seasonal_advice": {
+          "winter": "多吃黑豆黑芝麻补肾"
+        }
+      }
+    }
+  }

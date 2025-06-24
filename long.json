@@ -1,0 +1,103 @@
+{
+    "user_info": {
+      "birth_date": "1988-04-05",
+      "chinese_zodiac": "龙",
+      "earthly_branch": "辰",
+      "heavenly_stem": "戊",
+      "gender": "male"
+    },
+    "report": {
+      "year": 2025,
+      "stem_branch": {
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳",
+        "five_elements": "木火",
+        "year_analysis": "辰土得巳火相生，但乙木克土，吉凶参半"
+      },
+      "zodiac_tai_sui": {
+        "zodiac_personality": {
+          "strengths": ["天生领袖", "思想前瞻", "精力旺盛"],
+          "weaknesses": ["刚愎自用", "情绪两极", "理想主义"],
+          "case_study": "朱元璋（1328戊辰年）：从乞丐到皇帝展现'飞升九天'的蜕变力"
+        },
+        "tai_sui_status": {
+          "type": "无犯太岁",
+          "conflict_animals": ["狗"],
+          "warning": "健康易出问题，注意心肺保养",
+          "resolve_methods": [
+            "东南方放置金属风铃",
+            "佩戴黑曜石普贤菩萨本命佛",
+            "端午用艾草锤拍打肺经"
+          ]
+        }
+      },
+      "positions": {
+        "life_position": {
+          "direction": "东南（巽卦）",
+          "element": "木",
+          "layout_tips": ["放置文昌塔和书籍", "悬挂中国结"]
+        },
+        "academic_position": {
+          "direction": "正西方",
+          "enhancement": ["摆放九层黄铜文昌塔", "书桌铺白色桌布"]
+        },
+        "wealth_position": {
+          "direction": "西北方",
+          "enhancement": ["放置黄铜聚宝盆（内置金元宝+五谷）"],
+          "taboos": ["避免放置垃圾桶"]
+        }
+      },
+      "health": {
+        "risk_forecast": {
+          "high_risk": ["心肺系统"],
+          "common_issues": ["呼吸不畅", "皮肤过敏"]
+        },
+        "health_calendar": {
+          "june": "注意饮食卫生",
+          "november": "预防感冒",
+          "year_round": "避免过劳或受凉"
+        },
+        "health_tips": [
+          "晨起深呼吸练习",
+          "多吃银耳百合润肺",
+          "涉水攀山加倍小心"
+        ]
+      },
+      "career": {
+        "overview": "吉星照命，喜气洋洋",
+        "noble_animals": ["猴", "鼠"],
+        "favorable_direction": "南方",
+        "industries": ["教育行业", "科技创新"],
+        "warnings": ["保持警惕", "谨守信用"],
+        "success_case": "贝氏家族（苏州）：重视教育文昌布局，人才辈出"
+      },
+      "feng_shui": {
+        "home_layout": {
+          "gate_taboo": "忌朝西北（坐辰向戌）",
+          "bedroom": "东南角放金属工艺品",
+          "study": "挂'鱼跃龙门'画作"
+        },
+        "office_layout": {
+          "reception": "放置圆形水晶摆件"
+        }
+      },
+      "personalized_recommendations": {
+        "enhancement_items": [
+          {
+            "name": "黄铜文昌塔",
+            "placement": "东南方书桌",
+            "purpose": "催旺事业学业"
+          },
+          {
+            "name": "朱砂六合手串",
+            "purpose": "增强贵人运"
+          }
+        ],
+        "special_reminders": [
+          "农历五月七月财运最旺",
+          "慎防大额投资损失",
+          "年末注意交通意外"
+        ]
+      }
+    }
+  }
